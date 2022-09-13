@@ -1,0 +1,11 @@
+.venv/
+.idea
+.coverage
+bin/
+dist/
+build/
+wheelhouse/
+*.egg-info/
+*.py[co]
+__pycache__/
+*.deb
